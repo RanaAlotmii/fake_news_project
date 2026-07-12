@@ -10,11 +10,14 @@ The project provides a simple web interface where users can enter news text and 
 
 # Features
 
-- Real-time news classification:
+- Real-time fake news classification using a trained **Naive Bayes model**.
+- Classifies news articles into:
   -  Real News
   -  Fake News
 
 - Confidence score and prediction probabilities.
+
+- FastAPI REST API for handling news predictions.
 
 - User-friendly web interface for testing news articles.
 
@@ -22,7 +25,7 @@ The project provides a simple web interface where users can enter news text and 
 
 - Monthly reports for analyzing predictions.
 
-- Tracking low-confidence predictions for review.
+- Tracking low-confidence predictions for further review.
 
 ---
 
