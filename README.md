@@ -49,7 +49,7 @@ models/
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ## Backend
 - Python
